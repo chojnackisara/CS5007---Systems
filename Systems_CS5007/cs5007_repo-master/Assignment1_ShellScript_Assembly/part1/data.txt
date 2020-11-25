@@ -1,0 +1,6 @@
+line1 4
+line2 10
+line3 12
+line4 8
+line5 2
+line 6 6
